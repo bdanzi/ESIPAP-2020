@@ -10,8 +10,7 @@ I will leave things to do by yourself from day to day, in order to consolidate w
 
 ## Analysis exercise
 
-Every once in a while, we will do simple calculations and analysis exercises. 
-We will use [ROOT](https://root.cern) and [Python](https://www.python.org) with a [Jupyter](https://jupyter.org) notebook.
+Every once in a while, we will do simple calculations and analysis exercises. We will use [ROOT](https://root.cern) and [Python](https://www.python.org) with a [Jupyter](https://jupyter.org) notebook.
 
 If you have a CERN account, you can run the notebook on [SWAN](http://swan.web.cern.ch). Click the button below to open a session and import the repository. Otherwise, launch the standalone [binder](https://mybinder.org) using the other button below. It will give you a working environment with Python and ROOT that will allow you to run the notebooks from the browser. Of course, if you have a local version of Python and ROOT (with Python enabled) installed, simply clone or download the repository and run the notebooks on you computer. Ask me if you want help!
 

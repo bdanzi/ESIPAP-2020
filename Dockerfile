@@ -1,4 +1,4 @@
-FROM cern/cc7-base
+FROM centos
 
 COPY packages packages
 
