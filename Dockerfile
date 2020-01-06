@@ -16,7 +16,7 @@ RUN apt-get update
 
 RUN gcc -v
 # gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9)
-RUN apt-get list python*
+#RUN apt-get list python*
 
 
 # Install Python and dependencies (installs python 2.7)
