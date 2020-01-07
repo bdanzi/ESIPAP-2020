@@ -20,4 +20,6 @@ You have three options to run these notebooks:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcodelmastro/ESIPAP-2020/master?filepath=index.ipynb)
 
-**Go to the [Test](Test) directory and execute the [example notebook](Test/TestSetup.ipynb) there to verify your setup!**
+**Go to the [Tutorials](Tutorials) directory and execute the [example notebook](Tutorials/TestSetup.ipynb) there to verify your setup!**
+
+If you never used Python before, fear not! It's rather easy to get the grip of the basics. You can use the excellent [Crash Course](https://github.com/rpmuller/PythonCrashCourse) by [Rick Muller](http://www.cs.sandia.gov/~rmuller/) to get started.
