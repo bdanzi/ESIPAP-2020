@@ -10,4 +10,4 @@ A couple of exercises about particle interactions in particle detectors ([Instru
 
 ## Day 3
 
-A paper about a classic experimental particle physics experiment to read and discuss in small groups ([Instructions](Delmastro_ESIPAP2020_H3_Papers.pdf),[Papers](./Papers/)).
+A paper about a classic experimental particle physics experiment to read and discuss in small groups ([Instructions](Delmastro_ESIPAP2020_H3_Papers.pdf), [Papers](./Papers/)).
